@@ -1,0 +1,9 @@
+#root {
+    display: flex;
+    flex: 1;
+    padding: 16px;
+}
+
+#root button {
+    margin: 16px;
+}
